@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kotlin hw1</string>
+    <string name="text">Введите текст</string>
+    <string name="click">CLick</string>
+    <string name="error">Error</string>
+</resources>
